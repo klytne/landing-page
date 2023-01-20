@@ -7,6 +7,7 @@ Skills obtained:
 <li>having a better layout of the website</li>
 <li>designing links and lists</li>
 <li>making the website responsive</li>
+</ul>
 
 Review at the end of the project:
 
