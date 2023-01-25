@@ -19,13 +19,14 @@
     color: #e5e7eb;
 }
 
-.logo {
+h6 {
     font-size: 24px;
     color: #f9faf8;
 }
 
 .hlinks {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
+    align-items: flex-start;
 }
 
