@@ -37,11 +37,11 @@ a {
 }
 
 ul {
-    text-decoration: none;
+    list-style-type: none;
     display: flex;
     margin: 0;
     padding: 0;
-    gap: 8px;
+    gap: 16px;
 }
 
 .left, .right {
