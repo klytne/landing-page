@@ -29,6 +29,7 @@ h6 {
     display: flex;
     justify-content: space-around;
     align-items: flex-start;
+    padding: 16px;
 }
 
 a {
