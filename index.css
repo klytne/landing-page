@@ -9,3 +9,9 @@ body {
 .tbl {
     background-color: #e5e7eb;
 }
+
+.mt {
+    color: #f9faf8;
+    font-weight: 900;
+    font-size: 48px;
+}
