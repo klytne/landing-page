@@ -24,3 +24,7 @@ h6 {
     font-size: 24px;
     color: #f9faf8;
 }
+
+.hlinks {
+    display: flex;
+}
