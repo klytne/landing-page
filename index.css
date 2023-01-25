@@ -17,7 +17,6 @@
 .fbl {
     font-size: 18px;
     color: #e5e7eb;
-    text-align: center;
 }
 
 h6 {
@@ -27,4 +26,6 @@ h6 {
 
 .hlinks {
     display: flex;
+    justify-content: space-between;
 }
+
