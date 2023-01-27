@@ -8,12 +8,6 @@
     background-color: #e5e7eb;
 }
 
-.mt {
-    color: #f9faf8;
-    font-weight: 900;
-    font-size: 48px;
-}
-
 .blue {
     background-color: #3882f6;
 }
@@ -28,7 +22,7 @@ button {
     color: #e5e7eb;
 }
 
-h6 {
+.logo {
     font-size: 24px;
     color: #f9faf8;
     margin: 0;
@@ -56,5 +50,11 @@ ul {
 .under {
     display: flex;
     justify-content: space-around;
+}
+
+.mt {
+    color: #f9faf8;
+    font-weight: 900;
+    font-size: 48px;
 }
 
