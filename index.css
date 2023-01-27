@@ -14,7 +14,10 @@
 
 button {
     background-color: #3882f6;
-    color: #ffffff
+    color: #ffffff;
+    width: 24%;
+    height: 24%;
+    border-radius: 8px;
 }
 
 /* first block */
