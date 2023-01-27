@@ -14,6 +14,7 @@
 
 button {
     background-color: #3882f6;
+    color: #ffffff
 }
 
 /* first block */
@@ -65,6 +66,10 @@ a {
     font-weight: 900;
     font-size: 48px;
     margin: 0;
+}
+
+.fb {
+
 }
 
 .image {
