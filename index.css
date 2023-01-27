@@ -53,6 +53,13 @@ a {
     padding: 40px;
 }
 
+.subtexts {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    width: 30%
+}
+
 .mt {
     color: #f9faf8;
     font-weight: 900;
