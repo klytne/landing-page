@@ -74,3 +74,9 @@ a {
     align-items: center;
 }
 
+/* All parts */
+
+p {
+    margin: 0;
+}
+
