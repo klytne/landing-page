@@ -107,6 +107,12 @@ a {
     align-items: center;
 }
 
+.sqt {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 /* All parts */
 
 p {
