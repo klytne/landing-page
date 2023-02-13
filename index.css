@@ -102,6 +102,9 @@ a {
     color: #1f2937;
     font-size: 36px;
     font-weight: bolder;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 /* All parts */
