@@ -97,6 +97,13 @@ a {
     width: 40%;
 }
 
+/*second block*/
+.info {
+    color: #1f2937;
+    font-size: 36px;
+    font-weight: bolder;
+}
+
 /* All parts */
 
 p {
