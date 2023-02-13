@@ -110,10 +110,8 @@ a {
 .container {
     display: flex;
     justify-content: center;
-    gap: 8px;
+    gap: 52px;
 }
-
-
 
 .square {
     border: 5px solid #3882f6;
