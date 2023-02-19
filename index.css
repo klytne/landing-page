@@ -37,7 +37,6 @@ button {
     flex: auto;
     flex-wrap: wrap;
     justify-content: space-around;
-    
 }
 
 .hlinks {
@@ -129,7 +128,7 @@ a {
 }
 
 .square {
-    border: 5px solid #3882f6;
+    border: 4px solid #3882f6;
     border-radius: 8px;
     width: 150px;
     height: 100px;
