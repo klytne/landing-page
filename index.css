@@ -122,11 +122,6 @@ a {
 .container {
     display: flex;
     justify-content: center;
-    gap: 15px;
-}
-
-.sqt {
-    text-align: center;
 }
 
 .square {
