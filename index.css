@@ -124,6 +124,14 @@ a {
     justify-content: center;
 }
 
+.sqt {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
 .square {
     border: 4px solid #3882f6;
     border-radius: 8px;
