@@ -129,7 +129,6 @@ a {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    text-align: center;
     width: 12rem;
     
 }
@@ -139,6 +138,11 @@ a {
     border-radius: 8px;
     width: 150px;
     height: 150px;
+}
+
+.text {
+    text-align: center;
+    width: 9rem;
 }
 
 /* All parts */
