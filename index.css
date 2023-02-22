@@ -4,11 +4,11 @@ body {
 }
 
 /*Section background colors */
-.fbl, footer {
+#fbl, footer {
     background-color: #1f2937;
 }
 
-.tbl {
+#tbl {
     background-color: #e5e7eb;
 }
 
@@ -30,7 +30,7 @@ button {
 }
 
 /*First block */
-.fbl {
+#fbl {
     font-size: 18px;
     color: #e5e7eb;
     display: flex;
@@ -65,7 +65,7 @@ a {
     color: #ffffff;
 }
 
-.under {
+#under {
     display: flex;
     justify-content: space-around;
     padding: 40px;
@@ -101,7 +101,7 @@ a {
 }
 
 /*Second block*/
-.sbl{
+#sbl{
     padding: 15px;
     display: flex;
     justify-content: center;
@@ -118,7 +118,7 @@ a {
     margin: 10px;
 }
 
-.container {
+#container {
     display: flex;
     justify-content: center;
     padding: 2rem 8rem 8rem 8rem;
