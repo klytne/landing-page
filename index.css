@@ -146,6 +146,14 @@ a {
 }
 
 /*Third block*/
+#tbl {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 10rem;
+}
+
 .quote {
     font-size: 36px;
     font-weight: lighter;
