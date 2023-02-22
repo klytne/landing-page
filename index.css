@@ -3,7 +3,7 @@ body {
     height: 100vh;
 }
 
-/* section background colors */
+/*Section background colors */
 .fbl, footer {
     background-color: #1f2937;
 }
@@ -29,7 +29,7 @@ button {
     font-size: 19px;
 }
 
-/* first block */
+/*First block */
 .fbl {
     font-size: 18px;
     color: #e5e7eb;
@@ -100,7 +100,7 @@ a {
     width: 40%;
 }
 
-/*second block*/
+/*Second block*/
 .sbl{
     padding: 15px;
     display: flex;
@@ -144,6 +144,16 @@ a {
     text-align: center;
     width: 9rem;
 }
+
+/*Third block*/
+.quote {
+    font-size: 36px;
+    font-weight: lighter;
+    font-style: italic;
+    color: #1f2937;
+}
+
+
 
 /* All parts */
 
