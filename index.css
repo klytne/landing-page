@@ -115,13 +115,13 @@ a {
     font-weight: bolder;
     display: flex;
     justify-content: center;
-    padding-bottom: 3rem;
-    margin: 15px;
+    margin: 10x;
 }
 
 .container {
     display: flex;
     justify-content: center;
+    padding: 5rem;
 }
 
 .sqt {
