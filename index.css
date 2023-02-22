@@ -146,7 +146,7 @@ a {
 }
 
 /*Third block*/
-#tbl {
+.tblq {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -159,8 +159,13 @@ a {
     font-weight: lighter;
     font-style: italic;
     color: #1f2937;
+    width: 800px;
 }
 
+.owner {
+    font-weight: bold;
+    text-align: right;
+}
 
 
 /* All parts */
