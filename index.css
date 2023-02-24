@@ -146,28 +146,7 @@ a {
 }
 
 /*Third block*/
-.tbl {
-    display: flex;
-    align-items: center;
-}
 
-.quote {
-    display: table;
-    text-align: left;
-    width: 48rem;
-}
-
-.quote p {
-    font-size: 36px;
-    font-weight: lighter;
-    font-style: italic;
-    color: #1f2937;
-}
-
-.source {
-    text-align: right;
-    font-weight: bold;
-}
 
 /* All parts */
 p {
