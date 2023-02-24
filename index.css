@@ -149,6 +149,8 @@ a {
 #tbl {
     display: flex;
     flex-direction: column;
+    justify-content: center;
+    padding: 10rem;
 }
 
 .quote {
