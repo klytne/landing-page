@@ -12,23 +12,6 @@ body {
     background-color: #e5e7eb;
 }
 
-.blue {
-    background-color: #3882f6;
-}
-
-button {
-    background-color: #3882f6;
-    color: #ffffff;
-    min-width: 20%;
-    max-width: 30%;
-    min-height: 18%;
-    max-height: 20%;
-    border-radius: 8px;
-    padding: 10px 15px;
-    font-weight: 900;
-    font-size: 19px;
-}
-
 /*First block */
 #fbl {
     font-size: 18px;
@@ -84,12 +67,6 @@ a {
     font-weight: 900;
     font-size: 48px;
     margin: 0;
-}
-
-.fb {
-    margin-top: 10px;
-    border: 1px solid #3882f6;
-
 }
 
 .image {
@@ -192,6 +169,29 @@ a {
 
 /* All parts */
 p {
-    margin: 0;
+    margin: 5px;
 }
 
+/*Buttons*/
+button {
+    background-color: #3882f6;
+    color: #ffffff;
+    min-width: 20%;
+    max-width: 30%;
+    min-height: 18%;
+    max-height: 20%;
+    border-radius: 8px;
+    padding: 10px 15px;
+    font-weight: 900;
+    font-size: 19px;
+}
+
+.fb {
+    margin-top: 10px;
+    border: 1px solid #3882f6;
+
+}
+
+.sb {
+    border: 2px solid #fff;
+}
