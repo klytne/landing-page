@@ -177,6 +177,12 @@ a {
 
 .left {
     flex: 2;
+    color: #ffffff; 
+}
+
+.left .first {
+    font-weight: bold;
+    font-size: 20px;
 }
 
 .right {
