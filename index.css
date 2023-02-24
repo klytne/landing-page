@@ -146,7 +146,21 @@ a {
 }
 
 /*Third block*/
+#tbl {
+    display: flex;
+    flex-direction: column;
+}
 
+.quote {
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: lighter;
+    font-style: italic;
+}
+
+.source {
+    font-weight: bold;
+}
 
 /* All parts */
 p {
