@@ -175,6 +175,15 @@ a {
     background: #3882f6;
 }
 
+.left {
+    flex: 2;
+}
+
+.right {
+    flex: 1;
+    text-align: center;
+}
+
 /* All parts */
 p {
     margin: 0;
