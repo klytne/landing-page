@@ -149,11 +149,12 @@ a {
     margin: 8rem;
     padding: 2rem;
     background: #3882f6;
+    border-radius: 5px;
 }
 
 .left {
     flex: 2;
-    color: #ffffff; 
+    color: #ffffff;
 }
 
 .left .first {
