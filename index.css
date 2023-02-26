@@ -148,6 +148,8 @@ a {
     justify-content: center;
     margin: 8rem;
     padding: 2rem;
+    width: 60%;
+    height: 5rem;
     background: #3882f6;
     border-radius: 5px;
 }
