@@ -160,9 +160,14 @@ a {
 }
 
 .left {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-end;
     flex: 2;
     color: #ffffff;
 }
+
 
 .left .first {
     font-weight: bold;
@@ -170,8 +175,9 @@ a {
 }
 
 .right {
+    display: flex;
+    justify-content: center;
     flex: 1;
-    text-align: center;
 }
 
 /* All parts */
