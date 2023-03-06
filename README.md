@@ -11,3 +11,7 @@ Skills obtained:
 
 Review at the end of the project:
 
+The project took longer to finish than I expected. I had a lot of difficulty with the different
+flex elements in terms of when a flex property is inserted where or what will it
+affect. In the process I learnt a new sizing term.
+
