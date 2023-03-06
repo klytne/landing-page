@@ -129,11 +129,16 @@ a {
     padding: 10rem;
 }
 
+.qs {
+    width: 52rem;
+}
+
 .quote {
     font-size: 36px;
     color: #1f2937;
     font-weight: lighter;
     font-style: italic;
+
 }
 
 .source {
