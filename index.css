@@ -28,10 +28,13 @@ body {
     gap: 15rem;
 }
 
+.logo, .mt {
+    color:#f9faf8;
+    margin: 0;
+}
+
 .logo {
     font-size: 24px;
-    color: #f9faf8;
-    margin: 0;
 }
 
 ul {
@@ -40,11 +43,6 @@ ul {
     margin: 0;
     padding: 0;
     gap: 16px;
-}
-
-a {
-    text-decoration: none;
-    color: #ffffff;
 }
 
 #under {
@@ -62,10 +60,8 @@ a {
 }
 
 .mt {
-    color: #f9faf8;
     font-weight: 900;
     font-size: 48px;
-    margin: 0;
 }
 
 .image {
@@ -204,6 +200,11 @@ footer {
 /* All parts */
 p {
     margin: 5px;
+}
+
+a {
+    text-decoration: none;
+    color: #ffffff;
 }
 
 /*Buttons*/
