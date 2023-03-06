@@ -171,15 +171,18 @@ a {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    align-items: flex-end;
+    align-items: center;
     flex: 2;
     color: #ffffff;
+    text-align: right;
 }
 
 
 .left .first {
     font-weight: bold;
     font-size: 20px;
+    padding-left: 5rem;
+    align-self: flex-start;
 }
 
 .right {
