@@ -24,7 +24,8 @@ body {
 .hlinks {
     display: flex;
     justify-content: space-around;
-    padding: 16px;
+    align-items: center;
+    padding: 15px;
     gap: 15rem;
 }
 
@@ -49,14 +50,13 @@ ul {
     display: flex;
     justify-content: space-around;
     padding: 8rem;
-    gap: 10em;
 }
 
 .subtexts {
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
-    width: 30%;
+    width: 41%;
 }
 
 .mt {
@@ -70,6 +70,7 @@ ul {
     justify-content: center;
     align-items: center;
     width: 40%;
+
 }
 
 /*Second block*/
@@ -165,20 +166,17 @@ ul {
 
 .left {
     display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
+    flex-wrap: wrap;
     flex: 2;
     color: #ffffff;
-    text-align: right;
 }
 
-
+.first, .second {
+    padding: 0;
+}
 .left .first {
     font-weight: bold;
     font-size: 20px;
-    padding-left: 2rem;
-    align-self: flex-start;
 }
 
 .right {
