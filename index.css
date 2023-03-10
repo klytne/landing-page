@@ -17,6 +17,8 @@ body {
     font-size: 18px;
     color: #e5e7eb;
     display: flex;
+    flex-shrink: 0;
+    flex-direction: column;
     justify-content: space-around;
 }
 
