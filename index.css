@@ -48,6 +48,7 @@ ul {
 #under {
     display: flex;
     justify-content: space-around;
+    padding: 5rem;
 }
 
 .subtexts {
