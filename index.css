@@ -166,13 +166,14 @@ ul {
 
 .left {
     display: flex;
-    flex-wrap: wrap;
+    flex-direction: column;
     flex: 2;
-    color: #ffffff;
+    color: #ffffff
 }
 
 .first, .second {
     padding: 0;
+    margin: 0;
 }
 .left .first {
     font-weight: bold;
